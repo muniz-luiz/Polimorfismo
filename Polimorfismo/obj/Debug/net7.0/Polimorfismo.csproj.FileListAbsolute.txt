@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.exe
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.dll
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.pdb
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.dll
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\refint\Polimorfismo.dll
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.pdb
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\Polimorfismo\Polimorfismo\obj\Debug\net7.0\ref\Polimorfismo.dll
